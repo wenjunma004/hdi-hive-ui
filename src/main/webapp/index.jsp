@@ -1,8 +1,7 @@
 <html>
 <body>
-    <h2>Jersey RESTful Web Application!</h2>
-    <p><a href="api/myresource">Jersey resource</a>
-    <p>Visit <a href="http://jersey.java.net">Project Jersey website</a>
-    for more information on Jersey!
+    <h2>Hive UI Backend Application!</h2>
+    <p><a href="api/test">Test it</a>
+
 </body>
 </html>
