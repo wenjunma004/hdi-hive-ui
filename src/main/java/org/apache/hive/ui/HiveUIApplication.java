@@ -44,6 +44,7 @@ import org.apache.hive.ui.resources.browser.DDLService;
 import org.apache.hive.ui.resources.jobs.JobService;
 import org.apache.hive.ui.resources.resources.FileResourceService;
 import org.apache.hive.ui.resources.savedQueries.SavedQueryService;
+import org.apache.hive.ui.resources.settings.SettingsService;
 import org.apache.hive.ui.resources.udfs.UDFService;
 
 import javax.ws.rs.ApplicationPath;
@@ -69,6 +70,8 @@ public class HiveUIApplication extends Application {
         classes.add(SavedQueryService.class);
         classes.add(JobService.class);
         classes.add(DDLService.class);
+        classes.add(SettingsService.class);
+
 
 
         return classes;
