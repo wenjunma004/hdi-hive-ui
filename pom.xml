@@ -279,7 +279,7 @@
     <properties>
         <hive.version>2.1.0</hive.version>
         <jersey.version>1.19.1</jersey.version>
-        <hadoop.version>2.7.2</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
